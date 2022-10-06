@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "highest_elevation.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

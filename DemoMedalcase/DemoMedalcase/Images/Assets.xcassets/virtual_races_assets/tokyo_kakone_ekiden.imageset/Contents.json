@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "tokyo_kakone_ekiden.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
